@@ -1,5 +1,6 @@
 # IoTPlantHydration-
-AutoPlantWateringSystem 
+The Auto Plant Watering System is a smart irrigation solution designed to automatically monitor and water plants based on soil moisture levels. It helps to ensure that your plants receive the right amount of water, reducing the risk of overwatering or underwatering.
+
 # Automatic Plant Watering System
 
 This repository contains Arduino code for an automatic plant watering system based on Arduino and the QuadDisplay2 library.
